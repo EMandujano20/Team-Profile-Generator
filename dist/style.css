@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+}
+
+.card {
+    max-width: 25rem;
+    margin: 1rem;
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.card-title, .card-text {
+    color: white;
+}
+
+.card-body {
+    border: none;
+    background-color:white;
+    padding: 20px;
+}
+
+.row {
+
+}
